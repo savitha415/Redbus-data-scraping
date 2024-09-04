@@ -1,7 +1,7 @@
 ## Redbus data scraping with selenium and dynamic filtering using streamlit
 
 ## Video Tutorial
-[Watch the video tutorial]([https://www.kapwing.com/videos/66d7ec984cdd205a4e0f2955])
+[Watch the video tutorial](https://www.kapwing.com/videos/66d7ec984cdd205a4e0f2955)
 
 ### Technical Tags:
 * Web Scraping 
